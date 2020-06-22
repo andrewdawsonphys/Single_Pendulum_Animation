@@ -1,6 +1,7 @@
 # Simple Pendulum Animation
 This project was an investigation both into the dynamics of a single pendulum but also the inefficiencies of numerical methods to solve the equation of motion.
 
+Inspiration for the project: https://www.youtube.com/watch?v=LS-NB1fhYSg
 Written by Andrew Dawson
 ## Contents
 1. The Physics of the Pendulum
